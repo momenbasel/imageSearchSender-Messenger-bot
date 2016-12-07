@@ -9,13 +9,9 @@ Why should I use it:-
 
 2- it's fast , easy just type a word and it will search google images for it
 
-
 3- it can send 100 picture per day
 
-
-
-4- it's good for seeing nudes ;-)
-
+4- It's good for searching about nudes ¯\_(ツ)_/¯
 
 sample ready to use one : https://goo.gl/yimg1f
 
