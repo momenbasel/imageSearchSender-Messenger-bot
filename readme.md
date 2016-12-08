@@ -15,8 +15,9 @@ Why should I use it:- <br />
 sample ready to use one : https://goo.gl/yimg1f   ( I put popular nudes sites on " Search the entire web but emphasize included sites." on google custom search on this bot )
 <br />
 Instruction :-
+<br />
 Type "help" you will get response contain instruction, way to report a problem.<br />
-
+<br />
 Type anything you want to search about and you will get photos about it from google custom search.
 <br />
 
@@ -45,5 +46,6 @@ curl -X POST "https://graph.facebook.com/v2.6/me/subscribed_apps?access_token="y
 7- Edit  $access_token     = "your_access_token";    with your page token
 <br />
 8- Edit the cx and key var with your own cx and key.
+<br />
 <br />
 9-  git push heroku master 
