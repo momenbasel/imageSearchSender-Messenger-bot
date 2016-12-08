@@ -15,11 +15,11 @@ Why should I use it:- <br />
 sample ready to use one : https://goo.gl/yimg1f   ( I put popular nudes sites on " Search the entire web but emphasize included sites." on google custom search on this bot )
 <br />
 <br />
-Instruction :-
+Instruction :-<br />
+
+-Type "help" you will get response contain instruction, way to report a problem.<br />
 <br />
-Type "help" you will get response contain instruction, way to report a problem.<br />
-<br />
-Type anything you want to search about and you will get photos about it from google custom search.
+-Type anything you want to search about and you will get photos about it from google custom search.
 <br />
 
 Requirement :-<br />
