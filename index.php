@@ -90,6 +90,11 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 if (!empty($input['entry'][0]['messaging'][0]['message'])) {
     $result = curl_exec($ch);
 }
-
+/* 
+ uncomment this after you add the host to the webhook.
+ 
+ 
 echo "Hello, I am a chatbot."; // get request on /index.php
 
+
+*/
